@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dish_item.xml",
+        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\layout\\dish_item.xml"
+    },
+    {
+        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

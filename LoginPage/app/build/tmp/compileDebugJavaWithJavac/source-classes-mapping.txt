@@ -1,2 +1,6 @@
 com/example/loginpage/BuildConfig.java
  com.example.loginpage.BuildConfig
+com/example/loginpage/databinding/DishItemBinding.java
+ com.example.loginpage.databinding.DishItemBinding
+com/example/loginpage/databinding/ActivityMainBinding.java
+ com.example.loginpage.databinding.ActivityMainBinding

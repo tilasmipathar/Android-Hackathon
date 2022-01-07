@@ -4,6 +4,10 @@
         "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
         "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -32,6 +36,10 @@
         "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\layout_dish_item.xml.flat",
+        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\layout\\dish_item.xml"
+    },
+    {
         "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
@@ -48,12 +56,16 @@
         "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
         "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
     },
     {
         "merged": "D:\\Rachit\\App Development\\My Projects\\Android-Hackathon\\LoginPage\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
