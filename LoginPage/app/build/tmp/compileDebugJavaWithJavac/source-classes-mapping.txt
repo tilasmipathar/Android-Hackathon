@@ -4,3 +4,5 @@ com/example/loginpage/databinding/DishItemBinding.java
  com.example.loginpage.databinding.DishItemBinding
 com/example/loginpage/databinding/ActivityMainBinding.java
  com.example.loginpage.databinding.ActivityMainBinding
+com/example/loginpage/databinding/ActivityAddDishBinding.java
+ com.example.loginpage.databinding.ActivityAddDishBinding

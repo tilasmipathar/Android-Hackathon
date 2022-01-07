@@ -1991,6 +1991,7 @@ int id action_text 0x7f080043
 int id actions 0x7f080044
 int id activity_chooser_view_content 0x7f080045
 int id add 0x7f080046
+int id addDishButton 0x7f0801f4
 int id adjust_height 0x7f080047
 int id adjust_width 0x7f080048
 int id alertTitle 0x7f080049
@@ -2086,6 +2087,7 @@ int id disableHome 0x7f08009b
 int id disableIntraAutoTransition 0x7f08009c
 int id disablePostScroll 0x7f08009d
 int id disableScroll 0x7f08009e
+int id dishInput 0x7f0801f5
 int id dishName 0x7f0801ea
 int id dishPrice 0x7f0801f3
 int id disjoint 0x7f08009f
@@ -2267,6 +2269,7 @@ int id percent 0x7f080148
 int id pin 0x7f080149
 int id position 0x7f08014a
 int id postLayout 0x7f08014b
+int id priceInput 0x7f0801f6
 int id progress_circular 0x7f08014c
 int id progress_horizontal 0x7f08014d
 int id radio 0x7f08014e
@@ -2484,6 +2487,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_add_dish 0x7f0b007d
 int layout activity_main 0x7f0b001c
 int layout browser_actions_context_menu_page 0x7f0b0071
 int layout browser_actions_context_menu_row 0x7f0b0072

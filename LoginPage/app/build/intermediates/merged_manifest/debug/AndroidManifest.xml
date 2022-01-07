@@ -25,6 +25,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.LoginPage" >
         <activity
+            android:name="com.example.loginpage.AddDishActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.loginpage.ChefMenu"
             android:exported="false"
             android:label="@string/title_activity_chef_menu"

@@ -1992,6 +1992,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addDishButton
 id adjust_height
 id adjust_width
 id alertTitle
@@ -2087,6 +2088,7 @@ id disableHome
 id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
+id dishInput
 id dishName
 id dishPrice
 id disjoint
@@ -2268,6 +2270,7 @@ id percent
 id pin
 id position
 id postLayout
+id priceInput
 id progress_circular
 id progress_horizontal
 id radio
@@ -2485,6 +2488,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_dish
 layout activity_main
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row

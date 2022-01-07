@@ -1,12 +1,15 @@
 package com.example.loginpage
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.loginpage.daos.DishDao
 import com.example.loginpage.models.Dish
 import com.firebase.ui.firestore.FirestoreRecyclerOptions
+import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.firebase.firestore.Query
 
 class MainActivity : AppCompatActivity(), DishAdapterInterface {
@@ -17,17 +20,18 @@ class MainActivity : AppCompatActivity(), DishAdapterInterface {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        dishDao = DishDao()
-        dishDao.addDish("maggi", 25.00)
-//        fab.setOnClickListener{
-//            val intent = Intent(this, CreatePostActivity::class.java)
-//            startActivity(intent)
-//        }
+        val fab: FloatingActionButton = findViewById(R.id.fab)
+        fab.setOnClickListener{
+            val intent = Intent(this, AddDishActivity::class.java)
+            startActivity(intent)
+        }
 
         setUpRecyclerView()
     }
 
     private fun setUpRecyclerView() {
+        dishDao = DishDao()
+
         val dishCollections = dishDao.collection
         val query = dishCollections.orderBy("price", Query.Direction.ASCENDING)
         val recyclerViewOptions = FirestoreRecyclerOptions.Builder<Dish>().setQuery(query, Dish::class.java).build()
