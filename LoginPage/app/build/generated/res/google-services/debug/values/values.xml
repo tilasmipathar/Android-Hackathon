@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">561826726223-3j1t69lsbrtvh21kgss99cllrffmhtn1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">561826726223</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9s2U042HF0v5dsOxe6_bKZF3kfa81jn0</string>
+    <string name="google_app_id" translatable="false">1:561826726223:android:12104d253f6a4f6d68853a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9s2U042HF0v5dsOxe6_bKZF3kfa81jn0</string>
+    <string name="google_storage_bucket" translatable="false">gdsc-hackathon.appspot.com</string>
+    <string name="project_id" translatable="false">gdsc-hackathon</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561826726223",
+    "project_id": "gdsc-hackathon",
+    "storage_bucket": "gdsc-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561826726223:android:12104d253f6a4f6d68853a",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561826726223-3j1t69lsbrtvh21kgss99cllrffmhtn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9s2U042HF0v5dsOxe6_bKZF3kfa81jn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561826726223-3j1t69lsbrtvh21kgss99cllrffmhtn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
